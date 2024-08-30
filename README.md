@@ -35,10 +35,10 @@ Here are some results from the trained model on test set:
 
 # Helpful resources
 
-YOLO explanation: https://www.youtube.com/watch?v=9s_FpMpdYW8&list=WL&index=20
-YOLO explanation in depth: https://www.youtube.com/watch?v=svn9-xV7wjk&list=WL&index=19
-Mean Average Precision (mAP) explanation and coding: https://www.youtube.com/watch?v=FppOzcDvaDI
-Intersection Over Union (IoU) explanation and coding: https://www.youtube.com/watch?v=XXYG5ZWtjj0 (High noise warning for the start of the video :D )
-
+YOLO explanation: https://www.youtube.com/watch?v=9s_FpMpdYW8&list=WL&index=20 <br>
+YOLO explanation in depth: https://www.youtube.com/watch?v=svn9-xV7wjk&list=WL&index=19 <br>
+Mean Average Precision (mAP) explanation and coding: https://www.youtube.com/watch?v=FppOzcDvaDI <br>
+Intersection Over Union (IoU) explanation and coding: https://www.youtube.com/watch?v=XXYG5ZWtjj0 (High noise warning for the start of the video :D ) <br>
+ 
 
 [fashionpedia]: https://huggingface.co/datasets/detection-datasets/fashionpedia_4_categories
