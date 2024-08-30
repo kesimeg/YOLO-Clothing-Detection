@@ -7,10 +7,18 @@ In this repo YOLO model is finetuned to detect clothing using a reduced version 
   - Bags
   - Accessories
 
+The class distribution is shown in the figure below. As it can be seen clothing is the class with the highest number of instances and the amount of data between the classes is high.
+
+<img src="./Images/label_distribution.jpg" alt="Description" title="Title" width="500"/>
+
+
+# How to run the codes
 
 First you need to run data_preprocessing.py to change the format of data to desired format of ultralytics library.
 
 The output dataset directory structure will be like the following:
+
+
 ```
 datasets/
 └── fashion_dataset/
